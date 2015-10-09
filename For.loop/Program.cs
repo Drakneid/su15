@@ -10,6 +10,7 @@ namespace For.loop
     {
         static void Main(string[] args)
         {
+            //en for loop
             for (int i=0; i<100; i--)
             {
                 Console.WriteLine(i);
